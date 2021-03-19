@@ -18,6 +18,7 @@ import ContextApi from './mycode/contextApi'
 
 class App extends Component {
   render() {
+    console.log("hi");
     return (
       <Router>
         <div className="container">
